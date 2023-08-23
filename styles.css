@@ -1,0 +1,173 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Desktop - 1 */
+body{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #FFFFFF;
+}
+
+.middle{
+    display: flex;
+    justify-content: space-between
+    
+}
+
+
+
+/* Ellipse 1 */
+#desbar{
+position: absolute;
+width: 1440px;
+height: 548px;
+left: 0px;
+top: -274px;
+border-radius: 1440px;
+justify-content: space-between;
+flex-shrink: 0;
+background: #D9D9D9;}
+
+
+/* Ellipse 2 */
+.cirdev{
+
+    position: absolute;
+    width: 380px;
+    height: 337px;
+    left: 42px;
+    top: 300px;
+    border-radius: 50%;
+    background: #D9D9D9;
+}
+    
+    /* Ellipse 6 */
+     .cirdev2{
+    position: absolute;
+    width: 380px;
+    height: 337px;
+    left: 990px;
+    top: 300px;
+    border-radius: 50%;
+    background: #D9D9D9;
+     }
+    
+    /* Ellipse 5 */
+    .cirdev3{
+    position: absolute;
+    width: 468px;
+    height: 429px;
+    left: 472px;
+    top: 362px;
+    border-radius: 50%;
+    background: #D9D9D9;
+    
+    
+        }
+
+
+
+.rect{
+position: absolute;
+width: 488px;
+height: 119px;
+left: 450px;
+top: 850px;
+bottom: 0px;
+justify-content: center;
+background: #D9D9D9;
+border-radius: 50px;
+}
+
+
+.red{
+    color: firebrick;
+}
+
+/* Education */
+h1{
+position:absolute;
+width: 939px;
+left: 200px;
+top: 260px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 58px;
+text-align: center;
+flex-shrink: 0;
+color : #000000;
+
+}
+
+
+
+
+h2{
+position: absolute;
+width: 349px;
+height: 108px;
+left: 160px;
+top: 370px;
+
+font-family: 'Poppins';
+font-style: bold;
+font-weight: 4000;
+font-size: 24px;
+line-height: 36px;
+color: firebrick;
+
+}
+
+
+
+p{
+position: absolute;
+width: 1040px;
+height: 102px;
+left: 211px;
+top: 100px;
+flex-shrink: 0;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+
+color: #000000;
+}
+
+ol{
+    position: absolute;
+width: 990px;
+height: 102px;
+left: 24px;
+top: 128px;
+flex-shrink: 0;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+text-align: left;
+color: #000000;
+}
+
+h3{
+    position: absolute;
+    width: 349px;
+    height: 108px;
+    left: 160px;
+    top: 430px;
+    
+    font-family: 'Poppins';
+    font-style: bold;
+    font-weight: 4000;
+    font-size: 24px;
+    line-height: 36px;
+    color: firebrick;
+    
+    }
